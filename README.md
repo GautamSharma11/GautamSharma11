@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gautam Sharma</h1>
-<h3 align="center">A splindid adventurer from India exploring the deepest depths of Machine Learning</h3>
+<h3 align="center">A splendid adventurer from India exploring the deepest depths of Machine Learning</h3>
 
 - 🔭 I’m currently working on **a revolutionary computer vision model**
 
